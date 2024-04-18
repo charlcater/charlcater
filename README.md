@@ -26,4 +26,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![Charl's github stats](https://github-readme-stats.vercel.app/api?username=charlcater&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+# [![Charl's github stats](https://github-readme-stats.vercel.app/api?username=charlcater&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Charl's github stats](https://github-readme-stats-snowy-three-11.vercel.app/api?username=charlcater&show_icons=true&count_private=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
